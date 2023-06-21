@@ -13,7 +13,7 @@ export default function Footer() {
         <div className="row">
           <div className="col-sm-6 col-lg-3">
             <div className="widget widget-about">
-              <img src="/assets/images/demos/demo-4/logo.jpg" className="footer-logo" alt="Footer Logo" width={105} height={25} />
+              <img src="/assets/images/demos/demo-4/logo.png" className="footer-logo" alt="Footer Logo" width={150} height={30} />
               <p>Praesent dapibus, neque id cursus ucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. </p>
               <div className="widget-call">
                 <i className="icon-phone" />

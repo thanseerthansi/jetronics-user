@@ -25,7 +25,7 @@ export default function Header() {
               <i className="icon-bars" />
             </button>
             <Link to="/" className="logo">
-              <img src="/assets/images/demos/demo-4/logo.jpg" alt="Jetronics Logo" width={105} height={25} />
+              <img src="/assets/images/demos/demo-4/logo.png" alt="Jetronics Logo" width={150} height={30} />
             </Link>
           </div>{/* End .header-left */}
           <div className="header-right">
